@@ -7,3 +7,6 @@
         [v] Enable Django Support
    4. Run > Edit configurations... > + > Django Server > Name: runserver
    5. VCS > Enable Version Control Intergration... > git > ok
+2. startapp mood
+   1. python manage.py startapp mood
+   2. 'mood', in INSTALLED_APPS in settings.py

@@ -24,3 +24,5 @@
       1. R: CharacterListView
    4. templates/mood/
       1. character_list.html
+   5. urls
+      1. mood:character.list
